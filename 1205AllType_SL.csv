@@ -1,0 +1,41 @@
+R,G,B,Stem length,type,plant
+66.66,0,33.33,-0.049,3,Brassica napus
+66.66,0,33.33,-0.076,3,Brassica napus
+66.66,0,33.33,-0.153,3,Brassica napus
+100,0,0,-0.043,1,vanilla
+0,0,100,-0.038,1,vanilla
+50,0,50,0.015,1,vanilla
+30,0,70,0.043,2,mini chal tomato
+20,20,60,0.01,2,mini chal tomato
+20,40,40,0.024,2,mini chal tomato
+93,0,7,-0.02,3,Basil
+70,0,30,-0.015,3,Basil
+93,0,7,-0.014,3,Parsley
+70,0,30,-0.024,3,Parsley
+100,0,,0.011,3,lettuce
+0,0,100,0.009,3,lettuce
+50,0,50,0.005,3,lettuce
+75,0,25,0.078,3,Lettice green oak.
+100,0,0,0.0458,3,Chinese Cabbage
+0,0,100,0.532,3,Chinese Cabbage
+50,0,50,0.393,3,Chinese Cabbage
+100,0,0,-0.024,3,Red Oakleaf
+80,0,20,-0.032,3,Red Oakleaf
+50,0,50,-0.04,3,Red Oakleaf
+20,0,80,-0.041,3,Red Oakleaf
+0,0,100,-0.019,3,Red Oakleaf
+90,0,10,-0.082,3,lettuce
+100,0,0,-0.058,2,potato
+0,0,100,-0.048,2,potato
+65,0,35,0.008,2,potato
+45,20,35,0.017,2,potato
+50,0,50,-0.027,3,lettuce
+66,0,33,-0.004,2,tomato
+66,33,0,0.001,2,tomato
+66,0,33,0.009,2,tomato
+66,33,0,-0.002,2,tomato
+0,0,100,0.032,3,lettuce
+100,0,0,-0.139,3,lettuce
+0,0,100,0.053,1,Myrtus communis
+70,0,30,0.032,1,Myrtus communis
+100,0,0,0.023,1,Myrtus communis
